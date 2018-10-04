@@ -27,6 +27,7 @@
     padding: 0 0;
     margin: 5px 0px -7px 5px; 
 }
+#home-icon img { border-radius: 16px }
 
 li { float: left; padding: 10px 0px; border-collapse: collapse; color: #ffffff; min-width: 125px; text-align: center;}
 li.disabled { pointer-events: none; opacity: 0.6; }
