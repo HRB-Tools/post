@@ -22,7 +22,8 @@
 .col8 { width: 12.5% }
 
 #home-icon {     
-    min-width: 40px;
+    min-width: 32px;
+    height: 32px;
     padding: 0 0;
     margin: 5px 0px -7px 5px; 
 }
