@@ -21,6 +21,12 @@
 .col7 { width: 12.5% }
 .col8 { width: 12.5% }
 
+#home-icon {     
+    min-width: 40px;
+    padding: 0 0;
+    margin: 7px 0px -7px 7px; 
+}
+
 li { float: left; padding: 10px 0px; border-collapse: collapse; color: #ffffff; min-width: 125px; text-align: center;}
 li.disabled { pointer-events: none; opacity: 0.6; }
 li:hover { color: #2222ff; cursor: pointer; background-color: #7777ff; }
